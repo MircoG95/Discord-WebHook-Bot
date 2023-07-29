@@ -1,4 +1,6 @@
-# Discord-WebHook-Bot
+# Discord-WebHook-Bot with C#
+
+
 In this program you can choose whether you want to send a normal message or an embedded message in a Discord text channel. 
 This is done with the webhook URL you get from your Discord server.
 
